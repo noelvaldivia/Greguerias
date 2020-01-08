@@ -1,0 +1,38 @@
+/* Creado el 8 de enero del 2020 */
+
+
+body {
+    background-color: hsl(145, 50%, 35%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 150%;
+}
+
+p.uno {
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+
+p.dos {
+    color: hsl(35, 100%, 85%);
+    font-family: sans-serif;
+}
+
+p.tres {
+    color: hsl(35, 100%, 55%);
+    font-family: monospace;
+    font-size: 200%;
+}
+
+p.cuatro {
+    color: hsl(345, 80%, 50%);
+    font-family: cursive;
+}
